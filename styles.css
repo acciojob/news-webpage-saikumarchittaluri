@@ -17,7 +17,7 @@ header{
 	flex-diection:row;
 	overflow:none;
 }
-.first{
+.latest-news-section{
 	background-color:white;
 	text-align:center;
 	border-radius:20px;
@@ -25,7 +25,7 @@ header{
 	padding:20px;
 	margin-top:60px;
 }
-.secound{
+.Main-Article{
 	background-color:white;
 	text-align:center;
 	border-radius:20px;
@@ -33,7 +33,7 @@ header{
 	padding:20px;
 	margin-top:60px;
 }
-.third{
+.pictorial-news-section{
 	background-color:white;
 	text-align:center;
 	border-radius:20px;
@@ -42,6 +42,6 @@ header{
 	padding:20px;
 	margin-top:60px;
 }
-.third img{
+.pictorial-news-section img{
 	width:200px;
 }
